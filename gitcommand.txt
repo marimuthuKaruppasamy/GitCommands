@@ -15,6 +15,14 @@ git push origin main--our code will push in the main branch
 4.How to move the changes git to local
 git pull
 
+5.If there is no git in local then how you will add local file to remote
+git init--it is intialize the local repositry
+git add .
+git commit -m "commit msg"
+git remote add origin url--why this step because we are not connecting with any repo so we need create one repo and push the code
+git push origin master--why we are mentioning master if we are creating git locally main branch is the master only
+
+
 
 
 
