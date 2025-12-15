@@ -12,6 +12,9 @@ git add.---it will add the staging
 git commit -m "commit msg"--it will commit in the local repositry
 git push origin main--our code will push in the main branch
 
+4.How to move the changes git to local
+git pull
+
 
 
 
