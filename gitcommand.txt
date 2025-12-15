@@ -1,0 +1,18 @@
+1.How to config git in our local
+git config --global user.name "marimuthuKaruppasamy"
+git config --global user.email "manomuthu1518@gmail.com"
+
+2.How to clone repositry in local:
+git clone url
+
+3.How to move file from local to git
+if already we are using in same git
+git status--It will check the status
+git add.---it will add the staging
+git commit -m "commit msg"--it will commit in the local repositry
+git push origin main--our code will push in the main branch
+
+
+
+
+
